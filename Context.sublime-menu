@@ -1,3 +1,35 @@
 [
-
+    {
+        "caption": "Project Specific",
+        "id": "2_row",
+        "children":
+        [
+            { "caption": "-", "id": "1_row" },
+            {
+                "caption": "Fuzzy Nav Here...",
+                "command": "fuzzy_start_from_file"
+            },
+            {
+                "caption": "Fuzzy Nav",
+                "command": "fuzzy_file_nav"
+            },
+            {
+                "caption": "Fuzzy Project Folders",
+                "command": "fuzzy_project_folder_load"
+            },
+            {
+                "caption": "Fuzzy BookMarks",
+                "command": "fuzzy_bookmarks_load"
+            },
+            { "caption": "-", "id": "2_row" },
+            { "caption": "-", "id": "3_row" },
+            { "caption": "-", "id": "4_row" },
+            { "caption": "-", "id": "5_row" },
+            { "caption": "-", "id": "6_row" },
+            { "caption": "-", "id": "7_row" },
+            { "caption": "-", "id": "8_row" },
+            { "caption": "-", "id": "9_row" },
+            { "caption": "-", "id": "10_row" },
+        ]
+    }
 ]
