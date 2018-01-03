@@ -1,0 +1,6 @@
+[
+    { "caption": "FuzzyFileNav: Fuzzy Nav", "command": "fuzzy_file_nav" },
+    { "caption": "FuzzyFileNav: Fuzzy BookMarks", "command": "fuzzy_bookmarks_load" },
+    { "caption": "FuzzyFileNav: Nav Here...", "command": "fuzzy_start_from_file" },
+    { "caption": "FuzzyFileNav: Fuzzy Project Folders", "command": "fuzzy_project_folder_load" },
+]
